@@ -14,4 +14,4 @@ MAEER MIT Pune's MIMER Medical College
 Find me @ [ORCID](https://orcid.org/0000-0001-6552-5578)
         @ [Google Scholar](https://scholar.google.com/citations?hl=en&user=lU7vGgQAAAAJ)
 
-[Loading a Hugging Face Transformer model and tokenizer from DISC]()
+[Loading a Hugging Face Transformer model and tokenizer from DISC](https://github.com/kephalian/Tokenizers_demo/blob/main/Load_model_from_disc.md)
