@@ -7,8 +7,9 @@ Uses: SENTIMENT ANALYSIS PIPELINE of Hugging FACE
 
 This notebook is my simplification of the Tokenizers demo, on how Tokenizers work found in Hugging Face Hub NLP Course, [Found Here https://huggingface.co/learn/nlp-course/chapter2/2?fw=p](https://huggingface.co/learn/nlp-course/chapter2/2?fw=p)
 
+# Probably the first thing they should teach save your work (but they don't)
 
-##### OTHER ITEMS OF INTEREST IN THIS REPO
+##### OTHER ITEMS OF INTEREST IN THIS REPO- 
 
 [Loading a Hugging Face Transformer model and tokenizer from DISC Offline](https://github.com/kephalian/Tokenizers_demo/blob/main/Load_model_from_disc.md)
 
