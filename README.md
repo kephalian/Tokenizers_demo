@@ -13,6 +13,9 @@ This notebook is my simplification of the Tokenizers demo, on how Tokenizers wor
 [Loading a Hugging Face Transformer model and tokenizer from DISC](https://github.com/kephalian/Tokenizers_demo/blob/main/Load_model_from_disc.md)
 
 
+[SAVING a Hugging Face Transformer model and tokenizer to DISC FOR offline use](https://github.com/kephalian/Tokenizers_demo/blob/main/saving_a_model_to_disc.md)
+
+
 
 Pull requests are solicited!
 Prof. Dr. Santhosh Kumar Rajamani
