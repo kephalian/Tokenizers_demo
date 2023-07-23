@@ -7,7 +7,7 @@ Uses: SENTIMENT ANALYSIS PIPELINE of Hugging FACE
 
 This notebook is my simplification of the Tokenizers demo, on how Tokenizers work found in Hugging Face Hub NLP Course, [Found Here https://huggingface.co/learn/nlp-course/chapter2/2?fw=p](https://huggingface.co/learn/nlp-course/chapter2/2?fw=p)
 
-# Probably the first thing they should you -- teach save your work! (but they don't)
+# Probably the first thing they should teach you to save your work! (but they don't)
 
 ##### OTHER ITEMS OF INTEREST IN THIS REPO- 
 
