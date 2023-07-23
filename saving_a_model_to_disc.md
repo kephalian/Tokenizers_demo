@@ -21,7 +21,8 @@ print(outputs.last_hidden_state.shape)
 
 
 ## Note for the beginners like me, tokenizer is also like a model 
-(not like a program, but like a file and has to be saved and loaded independently)
+
+#### (not like a program, but like a file and has to be saved and loaded independently)
 
 
 ## pt_save_directory="/home/san/Models/distilbert-base-uncased-finetuned-sst-2-english"
