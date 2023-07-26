@@ -19,7 +19,7 @@ This notebook is my simplification of the Tokenizers demo, on how Tokenizers wor
 
 ## The process of Preparing data for training and fitting using dataset and Transformers modules.
 
-![Flowchart of Pretraining](https://github.com/kephalian/Tokenizers_demo/blob/main/20230726_194531_0000.png)
+![Flowchart of Pretraining](https://github.com/kephalian/Tokenizers_demo/blob/main/20230726_194531_0000.png, "Flowchart of Pretraining")
 
 
 Pull requests are solicited!
